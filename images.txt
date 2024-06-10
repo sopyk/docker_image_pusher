@@ -1,5 +1,13 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
+deluan/navidrome:latest
+gdy666/lucky:latest
+hslr/sun-panel:latest
+linuxserver/qbittorrent:latest
+linuxserver/wikijs:latest
+portainer/portainer-ce:latest
+postgres:latest
+talebook/talebook:latest
+traefik:latest
+whyour/qinglong:latest
+wordpress:latest
+xhofe/alist:latest
+zerotier/zerotier-synology:latest
